@@ -1,5 +1,6 @@
 # StuckInTheLoop
 Submission to SpeedJam 10 Game Jam
+Unity 6000.0.50f1
 
 Everything in here is CC0
 Basically you can do whatever you want with it.
